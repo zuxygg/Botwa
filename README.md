@@ -2,7 +2,7 @@
 <img src="https://telegra.ph/file/d711b77eb6bf21a2d9663.jpg" alt="XrutzBot" width="170" />
 
 ## Selfbot WhatsApp
-## session.json nya di ganti sama punya lu!
+## Nama Session => ytzero.json
 
 </div>
 
